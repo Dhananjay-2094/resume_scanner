@@ -1,0 +1,38 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode and test/tool caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local Streamlit configuration and secrets
+.streamlit/secrets.toml
+
+# Uploaded candidate files and local runtime data
+uploaded_resumes/
+
+# Environment variables and local-only configuration
+.env
+.env.*
+!.env.example
+
+# Build/package outputs
+build/
+dist/
+*.egg-info/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
