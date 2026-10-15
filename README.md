@@ -1,6 +1,6 @@
 # Resume Scanner
 
-[**Live demo**](https://resumescanner-6as.streamlit.app/)
+<a href="https://resumescanner-6as.streamlit.app/" target="_blank" rel="noopener noreferrer"><strong>Live demo</strong></a>
 
 A local Streamlit application for screening a batch of candidate resumes against configurable job requirements. Define the role, choose the scoring weights, upload PDF or DOCX resumes, and review a ranked leaderboard with matched-keyword details.
 
