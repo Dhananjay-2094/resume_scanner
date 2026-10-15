@@ -1,5 +1,7 @@
 # Resume Scanner
 
+[**Live demo**](https://resumescanner-6as.streamlit.app/)
+
 A local Streamlit application for screening a batch of candidate resumes against configurable job requirements. Define the role, choose the scoring weights, upload PDF or DOCX resumes, and review a ranked leaderboard with matched-keyword details.
 
 > **Scoring note:** This project uses literal keyword matching. It does not use an AI model, understand synonyms, assess candidate quality, or make hiring decisions. Treat scores as a review aid and inspect original resumes before making decisions.
